@@ -1,0 +1,7 @@
+{
+  "day": "16 / 20",
+  "title": "API Gateway ve Token Bucket",
+  "description": "API anahtarına göre kota uygula; sabit yerel üst servise gerçek HTTP proxy isteği gönder.",
+  "mode": "Yerel upstream · token bucket",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
